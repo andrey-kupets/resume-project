@@ -1,0 +1,267 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background: #f5f7fa;
+   padding: 20px;
+   font-family: Montserrat;
+}
+
+.wrapper {
+   background: #fff;
+   display: flex;
+}
+
+.sidebar {
+   background: #1e2939;
+   width: 370px;
+   height: 1319px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+.my-photo {
+   width: 370px;
+}
+
+.about-me-c {
+   padding-left: 90px;
+   padding-right: 90px;
+   padding-top: 110px;
+   padding-bottom: 110px;
+}
+
+.contacts-c {
+   margin-left: 40px;
+   margin-top: 60px;
+   margin-right: 40px;
+}
+
+.contacts-title {
+   font-size: 22px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #fff;
+   margin-bottom: 20px;
+}
+
+.contacts-link {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 24px;
+   color: #434c5a;
+}
+
+.contacts-link-type {
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #fff;
+   margin-right: 10px;
+}
+
+.tech-title {
+   font-size: 22px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #fff;
+   margin-bottom: 20px;
+}
+
+.tech-c {
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 55px;
+}
+
+.tech-item {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 24px;
+   margin-left: 15px;
+   color: #ffb608;
+}
+
+.tech-text {
+   color: #d8dadd;
+}
+
+.soft-c {
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 55px;
+}
+
+.soft-title {
+   font-size: 22px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #fff;
+   margin-bottom: 20px;
+}
+
+.soft-item {
+   font-size: 14px;
+   font-weight: 400;
+   -height: 24px;
+   margin-left: 15px;
+   color: #ffb608;
+}
+
+.soft-text {
+   color: #bcbfc4;
+}
+
+.role {
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   margin-bottom: 23px;
+}
+
+.name {
+   font-size: 45px;
+   font-weight: 700;
+   line-height: 89px;
+}
+
+.pers-info {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 24px;
+   margin-top: 24px;
+   /*width: 415px;*/
+   color: #595959;
+}
+
+.main-info {
+    margin-bottom: 65px;
+}
+
+.about-me-title {
+   font-size: 22px;
+   font-weight: 700;
+   line-height: 24px;
+   margin-bottom: 10px;
+}
+
+.proj-item {
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 24px;
+   margin-left: 17px;
+}
+
+.proj-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+
+.tech-name {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+.dots {
+    color: #bebebe;
+}
+
+.proj-c {
+    margin-bottom: 55px;
+}
+
+/*.work-exp-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: black;
+  margin-top: 65px;
+}*/
+
+.prof-title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px; 
+    margin-top: 10px;
+    margin-bottom: 15px; 
+}
+/*.prof-title-1 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+    margin-top: 20px;
+}
+
+.prof-title-2 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+    margin-top: 25px;
+}
+
+.prof-title-3 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: black;
+    margin-top: 30px;
+}*/
+
+.firm {
+    color: #ff6b08;
+}
+
+.date {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #a8a8a8;
+}
+
+.date-divider {
+    color: #000;
+}
+
+.prof-duties {
+    margin-top: 14px;  
+    margin-bottom: 30px;  
+}
+
+.prof-duties-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+
+/*.edu-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 55px;
+}*/     
+
+.uni-title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-bottom: 15px;
+}
+
+.spec-title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 14px;
+}
